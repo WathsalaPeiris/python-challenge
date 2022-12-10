@@ -114,5 +114,5 @@ with open(file_path,"w") as f:
     f.write(f"Greatest Decrease in Profits:  {Low_M} (${Low_PL})\n\n")
 
 #Print a messeage in the Terminal
-print('PyBank_Analysis.txt file was created in Analysis Folder')
+print('A text file called PyBank_Analysis.txt was created in Analysis Folder')
 
